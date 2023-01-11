@@ -1,10 +1,10 @@
-#Ola, sou João Sousa!
-# 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>⚡ Fun fact
+# Ola, sou João Sousa!
+Sou um desenvolvedor Front End júnior em busca de sempre buscar melhoria, seja pessoa ou profissional, meus objetivos são estudar e ter um domínio em diversas tecnologias, de preferência que envolva o universo Front End. Claro que almejo ofuscar mais dessa área bastante vasta que e a área da tecnologia.
+# 💫 Sobre mim:
+🔭 Buscando sempre inovaçoes<br>
+👯 Sou bastante parceiro<br>
+🤝 Sempre ajudando ao maximo<br>
+🌱 Plantando coisas novas<br>
 
 
 ## 🌐 Socials:

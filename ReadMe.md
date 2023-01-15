@@ -1,5 +1,5 @@
-# Ola, sou João Sousa!
-Sou um desenvolvedor Front End júnior em busca de sempre buscar melhoria, seja pessoa ou profissional, meus objetivos são estudar e ter um domínio em diversas tecnologias, de preferência que envolva o universo Front End. Claro que almejo ofuscar mais dessa área bastante vasta que e a área da tecnologia.
+# Ola Mundo!
+Ola sou joao sousa, sou um desenvolvedor Front End júnior em busca de sempre buscar melhoria, seja pessoa ou profissional, meus objetivos são estudar e ter um domínio em diversas tecnologias, de preferência que envolva o universo Front End. Claro que almejo ofuscar mais dessa área bastante vasta que e a área da tecnologia.
 # 💫 Sobre mim:
 🔭 Buscando sempre inovaçoes<br>
 👯 Sou bastante parceiro<br>

@@ -1,5 +1,5 @@
 # Ola Mundo!
-Ola sou joao sousa, sou um desenvolvedor Front End júnior em busca de sempre buscar melhoria, seja pessoa ou profissional, meus objetivos são estudar e ter um domínio em diversas tecnologias, de preferência que envolva o universo Front End. Claro que almejo ofuscar mais dessa área bastante vasta que e a área da tecnologia.
+Olá, me chamo Joao Pedro, sou um desenvolvedor <strong>Front End júnior</strong> em busca de aperfeiçoamento, seja pessoal ou profissional, um dos meus objetivos e ter um total domínio em diversas tecnologias com intuito de entregar do bom e do melhor para os clientes.
 # 💫 Sobre mim:
 🔭 Buscando sempre inovaçoes<br>
 👯 Sou bastante parceiro<br>

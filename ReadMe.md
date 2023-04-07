@@ -2,9 +2,9 @@
 Olá, me chamo Joao Pedro, sou um desenvolvedor <strong>Front End júnior</strong> em busca de aperfeiçoamento, seja pessoal ou profissional, um dos meus objetivos e ter um total domínio em diversas tecnologias com intuito de entregar do bom e do melhor para os clientes.
 # 💫 Sobre mim:
 🔭 Buscando sempre inovaçoes<br>
-👯 Sou bastante parceiro<br>
-🤝 Sempre ajudando ao maximo<br>
-🌱 Plantando coisas novas<br>
+👯 Sou bastante colaborativo<br>
+🤝 Sempre se exforçando e ajudando o maximo possivel<br>
+🌱 Platando coisas novas<br>
 
 
 ## 🌐 Socials:
